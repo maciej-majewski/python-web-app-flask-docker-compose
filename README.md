@@ -1,10 +1,9 @@
 # python-web-app-flask-docker-compose
 
 **Releases:** 
-- https://pypi.org/project/Django/
-- https://pypi.org/project/djangorestframework/
+- https://pypi.org/
 
-- Build/Rebuild the "web" service's image using "docker-compose": <br />
+**Build and run:** 
 docker-compose build <br />
 docker-compose up <br />
 -or in deatached mode: <br />
